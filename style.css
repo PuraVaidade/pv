@@ -1313,7 +1313,7 @@ textarea {
 
     #google_translate_element {
         position: relative;
-        margin-left: 15%;
+        margin-left: 45%;
         margin-top: 5%;
         font-weight: bold;
         padding: 0;
@@ -1795,11 +1795,6 @@ textarea {
         padding-left: 90px;
         padding-right: 80px;
         text-align: left;
-
-       
-  
-     
-    
     }
     
     .ownerpic {
