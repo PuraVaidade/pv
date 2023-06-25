@@ -1887,7 +1887,7 @@ textarea {
         display: flex;
         align-items: center;
         justify-content: center;
-        background-color: #463d3d;
+        background-color:   #c9b7b7;
     }
     
     input {
@@ -1914,7 +1914,7 @@ textarea {
     }
     
     textarea {
-        background-color: #463d3d;
+        background-color:  #c9b7b7;
         height: 3.5%;
         width: 100%;
         padding: 0 0 0 2.2rem;
