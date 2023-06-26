@@ -288,9 +288,12 @@ p {
 
     #navbarSupportedContent {
         width: 40px;
-        background-color: rgb(248, 216, 216);
+        background-color: rgb(245, 242, 242);
 
+    }
 
+	  .nav-link {
+        color: #e3099e;
     }
 
 
