@@ -28,3 +28,27 @@ submit.addEventListener('submit',(e)=>{
       message => alert(message)
     );
 });
+
+
+/* Click outside to close the menu */
+
+$(document).ready(function(){
+	
+	function isNavbarToggled(){
+		return $('#navbarSupportedContent').hasClass('show');
+	}
+
+	function toggleNavbar(){
+		const navbarEl = $('#navbarSupportedContent');
+		if(isNavbarToggled()){
+			navbarEl.removeClass('show')
+		} else {
+		   navbarEl.addClass('show')
+		}
+	}
+
+	$(document).click(function() {
+		if(isNavbarToggled()) toggleNavbar();
+	});
+
+})
