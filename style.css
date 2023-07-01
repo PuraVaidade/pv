@@ -292,7 +292,7 @@ p {
 
     }
 
-	  .nav-link {
+	.nav-link {
         color: #e3099e;
     }
 
@@ -1501,11 +1501,10 @@ textarea {
     
     
     .testimonial {
+	width: 430px;
         padding: 60px 30px 30px 100px;
     }
     
-    
-
     
     .test_p {
         color:#000;
@@ -1533,7 +1532,7 @@ textarea {
     .single-box {
         width: 362px;
         height: 280px;
-        margin-left: 10px;
+        margin-left: 15px;
 	border: 3px solid #d6ac6d;
         border-radius: 20px;
         background: #fff;
