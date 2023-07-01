@@ -1531,8 +1531,10 @@ textarea {
     }
 
     .single-box {
-        border: 3px solid #d6ac6d;
-        padding: 20px 5px 5px 5px;
+        width: 362px;
+        height: 280px;
+        margin-left: 10px;
+	border: 3px solid #d6ac6d;
         border-radius: 20px;
         background: #fff;
     }
