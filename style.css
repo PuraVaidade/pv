@@ -1767,6 +1767,7 @@ textarea {
     
     video {
         width: 350px;
+	margin-left: 25px;
         
     }
 
@@ -1801,7 +1802,7 @@ textarea {
         line-height: 20px;
         color: black;
         font-size: 17px;
-        padding-left: 90px;
+        padding-left: 96px;
         padding-right: 80px;
         text-align: left;
     }
